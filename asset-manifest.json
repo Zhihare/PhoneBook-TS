@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/PhoneBook-TS/static/css/main.ee441e01.css",
+    "main.js": "/PhoneBook-TS/static/js/main.eb6a7968.js",
+    "static/js/796.44970b03.chunk.js": "/PhoneBook-TS/static/js/796.44970b03.chunk.js",
+    "static/js/720.28601aab.chunk.js": "/PhoneBook-TS/static/js/720.28601aab.chunk.js",
+    "static/js/993.863a1c14.chunk.js": "/PhoneBook-TS/static/js/993.863a1c14.chunk.js",
+    "static/js/604.09ee39e9.chunk.js": "/PhoneBook-TS/static/js/604.09ee39e9.chunk.js",
+    "static/js/270.606b5ef9.chunk.js": "/PhoneBook-TS/static/js/270.606b5ef9.chunk.js",
+    "static/js/431.971da731.chunk.js": "/PhoneBook-TS/static/js/431.971da731.chunk.js",
+    "static/js/524.f0a5761a.chunk.js": "/PhoneBook-TS/static/js/524.f0a5761a.chunk.js",
+    "static/media/10.jpg": "/PhoneBook-TS/static/media/10.448ea00a689fec5e8341.jpg",
+    "static/media/22.jpg": "/PhoneBook-TS/static/media/22.9cd1257c264a46312104.jpg",
+    "static/media/46.jpg": "/PhoneBook-TS/static/media/46.a99ca982473a2e782e47.jpg",
+    "static/media/16.jpg": "/PhoneBook-TS/static/media/16.a9092d4922c966834af9.jpg",
+    "static/media/34.jpg": "/PhoneBook-TS/static/media/34.7aa3e7bbfe61f047a003.jpg",
+    "static/media/1.jpg": "/PhoneBook-TS/static/media/1.a40adfc2171fbe419931.jpg",
+    "static/media/60.jpg": "/PhoneBook-TS/static/media/60.b09b5a435cb31b27f1bc.jpg",
+    "static/media/1625928437_22-kartinkin-com-p-tekstura-khrushchevki-krasivo-31.jpg": "/PhoneBook-TS/static/media/1625928437_22-kartinkin-com-p-tekstura-khrushchevki-krasivo-31.0fa5be1ac3b4c29ce015.jpg",
+    "static/media/1626124597_52-kartinkin-com-p-teksturi-s-kartami-normalei-krasivo-58.jpg": "/PhoneBook-TS/static/media/1626124597_52-kartinkin-com-p-teksturi-s-kartami-normalei-krasivo-58.dcf76448bd073308a1ee.jpg",
+    "static/media/1626164237_4-kartinkin-com-p-tekstura-dereva-dlya-blendera-krasivo-4.jpg": "/PhoneBook-TS/static/media/1626164237_4-kartinkin-com-p-tekstura-dereva-dlya-blendera-krasivo-4.5d3ff82704fdc453bb52.jpg",
+    "static/media/35.jpg": "/PhoneBook-TS/static/media/35.868442bb904235febe17.jpg",
+    "static/media/20.jpg": "/PhoneBook-TS/static/media/20.7cce62d5f89c642f78c4.jpg",
+    "static/media/63.jpg": "/PhoneBook-TS/static/media/63.04a3a5613102abbd78c3.jpg",
+    "index.html": "/PhoneBook-TS/index.html",
+    "main.ee441e01.css.map": "/PhoneBook-TS/static/css/main.ee441e01.css.map",
+    "main.eb6a7968.js.map": "/PhoneBook-TS/static/js/main.eb6a7968.js.map",
+    "796.44970b03.chunk.js.map": "/PhoneBook-TS/static/js/796.44970b03.chunk.js.map",
+    "720.28601aab.chunk.js.map": "/PhoneBook-TS/static/js/720.28601aab.chunk.js.map",
+    "993.863a1c14.chunk.js.map": "/PhoneBook-TS/static/js/993.863a1c14.chunk.js.map",
+    "604.09ee39e9.chunk.js.map": "/PhoneBook-TS/static/js/604.09ee39e9.chunk.js.map",
+    "270.606b5ef9.chunk.js.map": "/PhoneBook-TS/static/js/270.606b5ef9.chunk.js.map",
+    "431.971da731.chunk.js.map": "/PhoneBook-TS/static/js/431.971da731.chunk.js.map",
+    "524.f0a5761a.chunk.js.map": "/PhoneBook-TS/static/js/524.f0a5761a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ee441e01.css",
+    "static/js/main.eb6a7968.js"
+  ]
+}
