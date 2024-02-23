@@ -1,14 +1,17 @@
-import styled from 'styled-components';
+import { createGlobalStyle } from 'styled-components';
 
-export const GlobalStyle = styled.div`
-
-  background: url('/src/img/16.jpg') no-repeat fixed;
-  background-size: cover;
+export const GlobalStyle = createGlobalStyle`
+ body {
+    margin: 0;
+    padding: 0;
+    background-image: ${(props) => `url(${props.backgroundImage})`};
+    background-size: cover;
   background-position: center;
-  width: 100vw;
-  height: 100%;
-  margin: 0;
+  background-repeat: no-repeat;
+
+
   font-family: 'Unbounded', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  }
 `

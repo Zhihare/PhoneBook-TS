@@ -9,6 +9,7 @@ import { PrivateRoute } from './PrivateRoute';
 import { refreshUser } from "redux/Auth/operations";
 import { useAuth } from "./hooks/useAuth";
 import Loader from "./Loader/Loader";
+import { GlobalStyle } from "GlobalStyle";
 
 
 const HomePage = lazy(() => import('../pages/HomePage'));
@@ -31,15 +32,8 @@ export function App() {
   return isRefreshing ? (
     <Loader></Loader>
   ) : (
-    <div style={{
-      backgroundImage: `url('${bodyImg}')`,
-      backgroundAttachment: 'fixed',
-      backgroundRepeat: 'no-repeat',
-      backgroundPosition: 'center',
-      backgroundSize: 'cover',
-      height: '100%',
-      margin: '0',
-    }}>
+    <>
+  <GlobalStyle backgroundImage={bodyImg}></GlobalStyle>
       <ThemeProvider theme={{ themes }} >
         <Routes>
           <Route path="/" element={<Layout />}>
@@ -65,6 +59,7 @@ export function App() {
           </Route>
         </Routes>
       </ThemeProvider >
-    </div>
+      </>
+ 
   );
 }

@@ -14,10 +14,11 @@ import {
 import storage from 'redux-persist/lib/storage';
 import { authReducer } from "./Auth/slice";
 
+
 const contactsConfig = {
 	key: ['contacts'],
 	storage,
-	whitelist: ['themes'],
+	whitelist: ['themes', 'body'],
 };
 
 const logConfig = {
